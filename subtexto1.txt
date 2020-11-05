@@ -1,0 +1,3 @@
+Mi primer subcarpeta para ejercitar la practica del dia 4/11
+Este renglon cuenta para la practica de git add 5/11
+
